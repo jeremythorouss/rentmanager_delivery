@@ -21,7 +21,7 @@ supprimer un vehicle
 voir les details de la voiture, les clients qui l'ont réservées et quand
 
 onglet réservation 
-visualisation de la liste : avec n,on pas les ids mais les noms prénom, constructeur et model des réservation
+visualisation de la liste : avec non pas les ids mais les noms prénom, constructeur et model des réservation
 ajouter un réservation
 modifier réservation
 supprimer une réservation
@@ -37,7 +37,7 @@ exigences réalisées supplémentaires
  retourne une erreur dans le cmd mais ne fait pas planter l'application et ne créé pas le client
  - une voiture doit avoir un modèle et un constructeur, son nombre de place doit être compris entre 2 et 9
  Un message apparait a l'écran pour le modele et le constructeur, 
-pour le nombre de classe, refuse de créer le véhicule
+pour le nombre de places, refuse de créer le véhicule
  
  
 Taches non réalisées
