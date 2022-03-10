@@ -47,7 +47,7 @@ je n'ai pas trouvé pertinent de mettre un onglet details dans la réservation
 - une voiture ne peux pas être réservé plus de 7 jours de suite par le même utilisateur
 - une voiture ne peux pas être réservé 30 jours de suite sans pause
 - si un client ou un véhicule est supprimé, alors il faut supprimer les réservations associées
-
+je n'ai pas compris ce que vous entendez par tests
 Lancement du fichier:
 
 .il faut aller dans le dossier C:\Users\votre user\ et enlever les fichiers "RentManagerDatabase"
