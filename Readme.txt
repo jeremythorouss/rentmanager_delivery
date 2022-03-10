@@ -3,7 +3,7 @@ Majeure MIN
 groupe MIN2
 
 comment le lancer:
-"tomcat7:run" dans le répertoire du fichier pom.xml
+"mvn tomcat7:run" dans le répertoire du fichier pom.xml
 
 Tache réalisées
 Onglet utilisateur: 
